@@ -5,8 +5,8 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "co.mobilemakers.multiply"
-        minSdkVersion 10
+        applicationId "co.mobilemakers.sandwichshop"
+        minSdkVersion 15
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
